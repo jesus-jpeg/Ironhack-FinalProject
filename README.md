@@ -17,3 +17,9 @@ By examining these different aspects, this project highlights the significant ro
 Digital Twins are virtual representations of physical objects, processes, or systems. They allow for real-time monitoring, analysis, and optimization of various operations. Their ability to simulate and predict outcomes has led to their increasing adoption in diverse industries, making them an essential tool in modern business strategies.
 
 Feel free to explore the findings and insights presented in this final project.
+
+## Project Links
+
+- [Trello Board](https://trello.com/b/RzFRfTAK/ironhackfinalproject): Click here to access the project's Trello board for task management and organization.
+
+- [Tableau Dashboard](https://public.tableau.com/app/profile/jes.s.cabezas.fern.ndez/viz/EcommerceAnalysis_16905751105790/GeneralStats): Explore the interactive Tableau dashboard for visualizing project insights and data analysis.
